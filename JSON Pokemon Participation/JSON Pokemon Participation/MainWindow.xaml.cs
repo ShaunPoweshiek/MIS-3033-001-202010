@@ -17,7 +17,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace JSON_Pokemon
-{
+{/
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
